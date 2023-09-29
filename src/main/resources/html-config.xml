@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<theme>dark</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>HTML Report</documentTitle>
+		<reportName>Test Case Details Report</reportName>
+		<offlineMode>false</offlineMode>
+
+		<testViewChartLocation>top</testViewChartLocation>
+		<chartVisibleOnOpen>true</chartVisibleOnOpen>
+		<enableTimeline>true</enableTimeline>
+
+		<enableCategoryView>true</enableCategoryView>
+		<enableAuthorView>true</enableAuthorView>
+		<enableExceptionView>true</enableExceptionView>
+		<enableTestRunnerLogsView>true</enableTestRunnerLogsView>
+	</configuration>
+</extentreports>

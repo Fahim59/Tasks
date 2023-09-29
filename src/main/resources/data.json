@@ -1,0 +1,23 @@
+{
+  "loginCredentials": {
+    "email": "m2sysqa.05+23@gmail.com",
+    "password": "M2qatest@11"
+  },
+
+  "customerInfo": {
+    "salesRep": "Reyes Haley",
+    "mobile": "01535458748"
+  },
+
+  "productInfo": {
+    "description": "A sweet, brown food made from cocoa beans",
+    "quantity": "15",
+    "price": "150"
+  },
+
+  "salesInfo": {
+    "title": "Test Title",
+    "date": "09/27/2023",
+    "message": "Test Message"
+  }
+}

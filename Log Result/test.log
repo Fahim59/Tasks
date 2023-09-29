@@ -1,0 +1,30 @@
+2023-09-28 21:45:18.927 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2023-09-28 21:45:26.291 [main] INFO  Framework.stepDef.LoginDefinition - Website launched
+2023-09-28 21:45:40.105 [main] INFO  Framework.stepDef.LoginDefinition - I'm on the login page
+2023-09-28 21:45:44.780 [main] INFO  Framework.stepDef.LoginDefinition - I enter login details and click login button
+2023-09-28 21:46:09.258 [main] INFO  Framework.stepDef.DashboardDefinition - I see the dashboard
+2023-09-28 21:46:09.430 [main] INFO  Framework.stepDef.DashboardDefinition - I click on customer menu
+2023-09-28 21:46:14.533 [main] INFO  Framework.stepDef.DashboardDefinition - I click customer add button
+2023-09-28 21:46:19.575 [main] INFO  Framework.stepDef.DashboardDefinition - I enter customer details and click save button
+2023-09-28 21:46:26.819 [main] INFO  Framework.stepDef.DashboardDefinition - I see the new added customer on customer table
+2023-09-28 21:46:27.078 [main] INFO  Framework.hooks.MyHooks - Browser quit and Test completed successfully
+2023-09-28 21:56:00.416 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2023-09-28 21:56:07.651 [main] INFO  Framework.stepDef.LoginDefinition - Website launched
+2023-09-28 21:56:16.350 [main] INFO  Framework.stepDef.LoginDefinition - I'm on the login page
+2023-09-28 21:56:18.594 [main] INFO  Framework.stepDef.LoginDefinition - I enter login details and click login button
+2023-09-28 21:56:42.961 [main] INFO  Framework.stepDef.DashboardDefinition - I see the dashboard
+2023-09-28 21:56:43.105 [main] INFO  Framework.stepDef.DashboardDefinition - I'm on product page
+2023-09-28 21:56:48.192 [main] INFO  Framework.stepDef.DashboardDefinition - I click customer add button
+2023-09-28 21:57:02.013 [main] INFO  Framework.stepDef.DashboardDefinition - I enter product details and click save button
+2023-09-28 21:57:09.396 [main] INFO  Framework.stepDef.DashboardDefinition - I see the new added product on product table
+2023-09-28 21:57:09.693 [main] INFO  Framework.hooks.MyHooks - Browser quit and Test completed successfully
+2023-09-28 22:02:45.671 [main] INFO  Framework.hooks.MyHooks - Browser launched successfully
+2023-09-28 22:02:52.815 [main] INFO  Framework.stepDef.LoginDefinition - Website launched
+2023-09-28 22:03:10.807 [main] INFO  Framework.stepDef.LoginDefinition - I'm on the login page
+2023-09-28 22:03:13.016 [main] INFO  Framework.stepDef.LoginDefinition - I enter login details and click login button
+2023-09-28 22:03:38.467 [main] INFO  Framework.stepDef.DashboardDefinition - I see the dashboard
+2023-09-28 22:03:38.582 [main] INFO  Framework.stepDef.DashboardDefinition - I'm on sales guidance page
+2023-09-28 22:03:43.714 [main] INFO  Framework.stepDef.DashboardDefinition - I click sales add button
+2023-09-28 22:03:54.879 [main] INFO  Framework.stepDef.DashboardDefinition - I enter sales details and click save button
+2023-09-28 22:04:02.328 [main] INFO  Framework.stepDef.DashboardDefinition - I see the new sales details on sales table
+2023-09-28 22:04:02.584 [main] INFO  Framework.hooks.MyHooks - Browser quit and Test completed successfully
